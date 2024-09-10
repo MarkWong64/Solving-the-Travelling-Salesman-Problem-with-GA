@@ -1,4 +1,4 @@
-GA.ipynb is a document along with python codes, comments and markdowns of full explanation, as a notebook form.
+GA.ipynb is a document along with python codes, comments and markdowns of full explanation, as a notebook.
 
 50_Landmarks.csv contains coordinates and addresses of the 50 waypoints.
 
